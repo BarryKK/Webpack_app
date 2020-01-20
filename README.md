@@ -1,9 +1,10 @@
-<div>
- <img src="https://user-images.githubusercontent.com/19600132/72697210-1144ec80-3b7a-11ea-9e00-42f993fa36ec.png" > <h1 style="display:inline">Webpack_app</h1>
-<div>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/19600132/72697210-1144ec80-3b7a-11ea-9e00-42f993fa36ec.png" > 
+</p>
 
+# Webpack_app
 
-此项目用于学习Webpack
+> 此项目用于学习Webpack
 
 :pencil:此项目用到的loaders:
 * Css-loader
